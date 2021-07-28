@@ -16,24 +16,24 @@ Matching key points between 2 images using:
 ![Q2A](./outputs/Q2A.png?raw=true)
 
 ### Q2
-- Pair1
-  1.ratio-test
+1. Pair1
+   - ratio-test
   ![Q2B_pair1_ratio_test](./outputs/Q2B_pair1_ratio_test.png?raw=true)
   
-  2.bidirectional-test
+   - bidirectional-test
   ![Q2B_pair1_bi_test](./outputs/Q2B_pair1_bi_test.png?raw=true)
-- Pair2
-  1.ratio-test
+2. Pair2
+   - ratio-test
   ![Q2B_pair2_ratio_test](./outputs/Q2B_pair2_ratio_test.png?raw=true)
   
-  2.bidirectional-test
+   - bidirectional-test
   ![Q2B_pair2_bi_test](./outputs/Q2B_pair2_bi_test.png?raw=true)
-- Pair3
-  1.ratio-test
-  ![Q2B_pair3_ratio_test](./outputs/Q2B_pair3_ratio_test.png?raw=true)
+3. Pair3
+   - ratio-test
+   ![Q2B_pair3_ratio_test](./outputs/Q2B_pair3_ratio_test2.png?raw=true)
   
-  2.bidirectional-test
-  ![Q2B_pair3_bi_test](./outputs/Q2B_pair3_bi_test2.png?raw=true)
+   - bidirectional-test
+   ![Q2B_pair3_bi_test](./outputs/Q2B_pair3_bi_test.png?raw=true)
   
   
   ## Authors:
