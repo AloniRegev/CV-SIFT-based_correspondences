@@ -28,12 +28,6 @@ Matching key points between 2 images using:
   
    - bidirectional-test
   ![Q2B_pair2_bi_test](./outputs/Q2B_pair2_bi_test.png?raw=true)
-3. Pair3
-   - ratio-test
-   ![Q2B_pair3_ratio_test](./outputs/Q2B_pair3_ratio_test2.png?raw=true)
-  
-   - bidirectional-test
-   ![Q2B_pair3_bi_test](./outputs/Q2B_pair3_bi_test.png?raw=true)
   
   
   ## Authors:
