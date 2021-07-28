@@ -2,14 +2,11 @@
 ## About: 
 The goal is to compute and visualize matches between related image pairs, based on the SIFT method.
 
-### Q1:
-Show interest point (IP) as a 4 dimational vectors [x, y, r, t], where x and y are the image coordinates and r, t are
-the scale and orientation
+1. Show interest point (IP) as a 4 dimational vectors [x, y, r, t], where x and y are the image coordinates and r, t are the scale and orientation
 
-### Q2:
-Matching key points between 2 images using:
-1. ratio-test
-2. bidirectional-test
+2.Matching key points between 2 images using:
+  - ratio-test
+  - bidirectional-test
 
 ## Notable Results:
 ### Q1
