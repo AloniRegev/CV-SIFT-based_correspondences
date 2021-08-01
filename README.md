@@ -29,4 +29,4 @@ The goal is to compute and visualize matches between related image pairs, based 
   
   ## Authors:
   - [Husam Lucia](https://www.linkedin.com/in/husam-lucia-6841b51a3)
-  - [Regev Aloni](https://www.linkedin.com/in/aloniregev)
+  - [Regev Aloni](https://github.com/AloniRegev)
